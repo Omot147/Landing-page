@@ -1,0 +1,84 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#home{
+    background: #1f2937;
+    height:100vh;
+}
+.first{
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+
+    
+}
+.header{
+        display: flex;
+}
+ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    gap: px;
+}
+a{
+    text-decoration: none;
+    padding: 8px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+ .first .icon .logo{
+    margin-right: 45rem;
+}
+.first .icon a,li{
+        text-decoration: none;
+        font-weight: 700;
+        list-style: none;
+        font-size: 30px;
+        color: #f9faf8;
+        padding: 8px;
+        margin-left: auto;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 100%;
+    background: #1f2937;
+    gap: 50px;
+}
+.placeholder{
+    width: 280px;
+    color: #f9faf8;
+}
+.placeholder h1{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+    padding-top: 0;
+}
+.placeholder p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.placeholder button{
+    width: 110px;
+    height: 28px;
+    background: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 6px;
+}
+.div{
+    width: 480px;
+    height: 210px;
+    background-image: url(images/prayer.jpg);
+    background-repeat: no-repeat;
+    background-position:  center -90px;
+    border-radius: 25px;
+}
+
+
