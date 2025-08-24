@@ -1,1 +1,1 @@
-# Landing-page
+This is my second project @odin-project using HTML/CSS
